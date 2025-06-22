@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>
+        Hotel Laku</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="app.css">
+</head>
+
+
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg mynav navbar-light fixed-top">
+        <div class="container">
+            <img src="hotellogo.png" width="30" height="30">
+            <a class="navbar-brand" href="#">Hotel Laku</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#rooms">Rooms</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#gallery">Gallery</a>
+                    </li>
+                              <li class="nav-item">
+                        <a class="nav-link" href="Aboutus.html">About us</a>
+                    
+                              </li>
+                </ul>
+                <div class="d-flex">
+                    <button class="btn btn-outline-light me-2" data-bs-toggle="modal" data-bs-target="#loginModal">
+                        <i class="fas fa-sign-in-alt me-1"></i> Sign In
+                    </button>
+                    <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#registerModal">
+                        <i class="fas fa-user-plus me-1"></i> Sign Up
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Login Modal -->
+    <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="loginModalLabel">Sign In to Your Account</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="mb-3">
+                            <label for="loginEmail" class="form-label">Email address</label>
+                            <input type="email" class="form-control" id="loginEmail" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="loginPassword" class="form-label">Password</label>
+                            <input type="password" class="form-control" id="loginPassword" required>
+                        </div>
+                        <div class="mb-3 form-check">
+                            <input type="checkbox" class="form-check-input" id="rememberMe">
+                            <label class="form-check-label" for="rememberMe">Remember me</label>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100">Sign In</button>
+                    </form>
+                    <div class="text-center mt-3">
+                        <a href="#" class="text-decoration-none">Forgot password?</a>
+                    </div>
+                    <hr>
+                    <div class="text-center">
+                        <p class="mb-0">Don't have an account? <a href="#" data-bs-toggle="modal" data-bs-target="#registerModal" data-bs-dismiss="modal" class="text-primary text-decoration-none">Sign up</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Register Modal -->
+    <div class="modal fade" id="registerModal" tabindex="-1" aria-labelledby="registerModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="registerModalLabel">Create New Account</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label for="firstName" class="form-label">First Name</label>
+                                <input type="text" class="form-control" id="firstName" required>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="lastName" class="form-label">Last Name</label>
+                                <input type="text" class="form-control" id="lastName" required>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="registerEmail" class="form-label">Email address</label>
+                            <input type="email" class="form-control" id="registerEmail" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="registerPassword" class="form-label">Password</label>
+                            <input type="password" class="form-control" id="registerPassword" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="confirmPassword" class="form-label">Confirm Password</label>
+                            <input type="password" class="form-control" id="confirmPassword" required>
+                        </div>
+                        <div class="mb-3 form-check">
+                            <input type="checkbox" class="form-check-input" id="agreeTerms" required>
+                            <label class="form-check-label" for="agreeTerms">I agree to the <a href="#" class="text-primary text-decoration-none">Terms and Conditions</a></label>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100">Sign Up</button>
+                    </form>
+                    <hr>
+                    <div class="text-center">
+                        <p class="mb-0">Already have an account? <a href="#" data-bs-toggle="modal" data-bs-target="#loginModal" data-bs-dismiss="modal" class="text-primary text-decoration-none">Sign in</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="hotel1.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="hotel4.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="hotel3.png" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <!-- Hero Section -->
+    <header class="hero-section">
+        <div class="hero-overlay"></div>
+        <div class="container h-100">
+            <div class="align-items-center">
+                <div class="col-12 text-center text-white">
+                    <h1 class="display-3 fw-bold">Welcome to Hotel Laku</h1>
+                    <p class="lead">Luxury Redefined</p>
+                    <a href="#rooms" class="btn btn-primary btn-lg mt-">Hotel Laku</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- About Section -->
+<section class="py-5">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="fw-bold mb-4">Experience Unparalleled Luxury</h2>
+            <p class="lead">Hotel Laku offers a perfect blend of modern comfort and traditional hospitality.</p>
+            <p>Located in the heart of the city, our hotel provides easy access to major attractions while offering a peaceful retreat from the bustling city life. With our world-class amenities and exceptional service, we ensure your stay is nothing short of extraordinary.</p>
+            <a href="#" class="btn btn-outline-primary btn-lg px-4 py-2 mt-3">Learn More</a>
+        </div>
+    </div>
+</section>
+
+
+
+
+   
+    <!-- Room Listing Section -->
+    <section class="container py-5 mt-5">
+        <h2 class="text-center mb-5">Our Rooms & Suites</h2>
+        <section id="rooms" class="py-5 bg-light"></section>
+        <div class="row">
+            <!-- Deluxe Room -->
+            <div class="col-lg-4 col-md-6">
+                <div class="card room-card h-100">
+                    <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="250" height="250" class="card-img-top room-img" alt="Deluxe Room">
+                    <div class="card-body">
+                        <h3 class="card-title">Deluxe Room</h3>
+                        <p class="card-text">Spacious rooms with modern amenities, perfect for business travelers and couples.</p>
+                        <ul class="amenity-list">
+                            <li><i class="fas fa-wifi"></i> Free WiFi</li>
+                            <li><i class="fas fa-tv"></i> Smart TV</li>
+                            <li><i class="fas fa-coffee"></i> Coffee Maker</li>
+                        </ul>
+                        <button class="btn btn-primary book-btn" data-bs-toggle="modal" data-bs-target="#bookingModal" data-room="Deluxe Room" data-price="150">Book Now</button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Executive Suite -->
+            <div class="col-lg-4 col-md-6">
+                <div class="card room-card h-100">
+                    <img src="hotel3.png" width="250" height="250" class="card-img-top room-img" alt="Executive Suite">
+                    <div class="card-body">
+                        <h3 class="card-title">Executive Suite</h3>
+                        <p class="card-text">Luxurious suite with separate living area, ideal for extended stays.</p>
+                        <ul class="amenity-list">
+                            <li><i class="fas fa-wifi"></i> Free WiFi</li>
+                            <li><i class="fas fa-tv"></i> Smart TV</li>
+                            <li><i class="fas fa-wine-bottle"></i> Mini Bar</li>
+                            <li><i class="fas fa-couch"></i> Living Area</li>
+                        </ul>
+                        <button class="btn btn-primary book-btn" data-bs-toggle="modal" data-bs-target="#bookingModal" data-room="Executive Suite" data-price="250">Book Now</button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Presidential Suite -->
+            <div class="col-lg-4 col-md-6">
+                <div class="card room-card h-100">
+                    <img src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="250" height="250" class="card-img-top room-img" alt="Presidential Suite">
+                    <div class="card-body">
+                        <h3 class="card-title">Presidential Suite</h3>
+                        <p class="card-text">Our most luxurious offering with premium amenities and stunning views.</p>
+                        <ul class="amenity-list">
+                            <li><i class="fas fa-wifi"></i> Free WiFi</li>
+                            <li><i class="fas fa-hot-tub"></i> Jacuzzi</li>
+                            <li><i class="fas fa-wine-bottle"></i> Mini Bar</li>
+                            <li><i class="fas fa-utensils"></i> Living & Dining Area</li>
+                            <li><i class="fas fa-concierge-bell"></i> Butler Service</li>
+                        </ul>
+                        <button class="btn btn-primary book-btn" data-bs-toggle="modal" data-bs-target="#bookingModal" data-room="Presidential Suite" data-price="450">Book Now</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Booking Modal -->
+    <div class="modal fade" id="bookingModal" tabindex="-1" aria-labelledby="bookingModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="bookingModalLabel">Complete Your Booking</h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <h4>Guest Information</h4>
+                            <form id="bookingForm">
+                                <div class="mb-3">
+                                    <label for="fullName" class="form-label">Full Name</label>
+                                    <input type="text" class="form-control" id="fullName" required>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label for="email" class="form-label">Email</label>
+                                        <input type="email" class="form-control" id="email" required>
+                                    </div>
+                                    <div class="col-md-6 mb-3">
+                                        <label for="phone" class="form-label">Phone Number</label>
+                                        <input type="tel" class="form-control" id="phone" required>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label for="checkIn" class="form-label">Check-In Date</label>
+                                        <input type="date" class="form-control" id="checkIn" required>
+                                    </div>
+                                    <div class="col-md-6 mb-3">
+                                        <label for="checkOut" class="form-label">Check-Out Date</label>
+                                        <input type="date" class="form-control" id="checkOut" required>
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="guests" class="form-label">Number of Guests</label>
+                                    <select class="form-select" id="guests" required>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                    </select>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="specialRequests" class="form-label">Special Requests</label>
+                                    <textarea class="form-control" id="specialRequests" rows="3"></textarea>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="col-md-5">
+                            <div class="checkout-summary">
+                                <h4>Booking Summary</h4>
+                                <hr>
+                                <div class="d-flex justify-content-between">
+                                    <p>Room Type:</p>
+                                    <p id="summaryRoomType">Deluxe Room</p>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <p>Price per night:</p>
+                                    <p id="summaryPrice">$150</p>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <p>Nights:</p>
+                                    <p id="summaryNights">0</p>
+                                </div>
+                                <hr>
+                                <div class="d-flex justify-content-between fw-bold">
+                                    <p>Total:</p>
+                                    <p id="summaryTotal">$0</p>
+                                </div>
+                                <div class="form-check mt-3">
+                                    <input class="form-check-input" type="checkbox" id="termsCheck" required>
+                                    <label class="form-check-label" for="termsCheck">
+                                        I agree to the terms and conditions
+                                    </label>
+                                </div>
+                                <button type="submit" form="bookingForm" class="btn btn-primary w-100 mt-3">Confirm Booking</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <script>
+        // Update booking summary when modal is shown
+        document.getElementById('bookingModal').addEventListener('show.bs.modal', function (event) {
+            const button = event.relatedTarget;
+            const roomType = button.getAttribute('data-room');
+            const roomPrice = button.getAttribute('data-price');
+            
+            document.getElementById('summaryRoomType').textContent = roomType;
+            document.getElementById('summaryPrice').textContent = '$' + roomPrice;
+            
+            // Calculate nights and total when dates change
+            const checkIn = document.getElementById('checkIn');
+            const checkOut = document.getElementById('checkOut');
+            
+            function calculateTotal() {
+                if (checkIn.value && checkOut.value) {
+                    const date1 = new Date(checkIn.value);
+                    const date2 = new Date(checkOut.value);
+                    const diffTime = Math.abs(date2 - date1);
+                    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+                    
+                    document.getElementById('summaryNights').textContent = diffDays;
+                    document.getElementById('summaryTotal').textContent = '$' + (diffDays * roomPrice);
+                }
+            }
+            
+            checkIn.addEventListener('change', calculateTotal);
+            checkOut.addEventListener('change', calculateTotal);
+        });
+        
+        // Form submission
+        document.getElementById('bookingForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            if (!document.getElementById('termsCheck').checked) {
+                alert('Please agree to the terms and conditions');
+                return;
+            }
+            
+            // Here you would typically send the data to your server
+            alert('Booking confirmed! Thank you for choosing Hotel Laku.');
+            const modal = bootstrap.Modal.getInstance(document.getElementById('bookingModal'));
+            modal.hide();
+        });
+    </script>
+</body>
+</html>
+
+
+    <!-- Amenities Section -->
+    <section id="amenities" class="py-5">
+        <div class="container">
+            <div class="text-center mb-5">
+                <h2 class="fw-bold">Hotel Amenities</h2>
+                <p class="lead">Enjoy our world-class facilities and services</p>
+            </div>
+            <div class="row g-4">
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="amenity-icon mb-3">
+                        <i class="fas fa-utensils fa-3x text-primary"></i>
+                    </div>
+                    <h5>Fine Dining</h5>
+                    <p>Multiple restaurants offering international cuisines</p>
+                </div>
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="amenity-icon mb-3">
+                        <i class="fas fa-swimming-pool fa-3x text-primary"></i>
+                    </div>
+                    <h5>Infinity Pool</h5>
+                    <p>Stunning rooftop pool with panoramic views</p>
+                </div>
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="amenity-icon mb-3">
+                        <i class="fas fa-spa fa-3x text-primary"></i>
+                    </div>
+                    <h5>Spa & Wellness</h5>
+                    <p>Rejuvenate with our premium spa treatments</p>
+                </div>
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="amenity-icon mb-3">
+                        <i class="fas fa-dumbbell fa-3x text-primary"></i>
+                    </div>
+                    <h5>Fitness Center</h5>
+                    <p>State-of-the-art gym with personal trainers</p>
+                </div>
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="amenity-icon mb-3">
+                        <i class="fas fa-wifi fa-3x text-primary"></i>
+                    </div>
+                    <h5>High-Speed WiFi</h5>
+                    <p>Complimentary high-speed internet access</p>
+                </div>
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="amenity-icon mb-3">
+                        <i class="fas fa-concierge-bell fa-3x text-primary"></i>
+                    </div>
+                    <h5>24/7 Concierge</h5>
+                    <p>Round-the-clock assistance for all your needs</p>
+                </div>
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="amenity-icon mb-3">
+                        <i class="fas fa-parking fa-3x text-primary"></i>
+                    </div>
+                    <h5>Valet Parking</h5>
+                    <p>Complimentary valet parking service</p>
+                </div>
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="amenity-icon mb-3">
+                        <i class="fas fa-business-time fa-3x text-primary"></i>
+                    </div>
+                    <h5>Business Center</h5>
+                    <p>Fully equipped meeting rooms and facilities</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section id="gallery" class="py-5 bg-light">
+        <div class="container">
+            <div class="text-center mb-5">
+                <h2 class="fw-bold">Gallery</h2>
+                <p class="lead">Explore our beautiful property</p>
+            </div>
+            <div class="row g-3">
+                <div class="col-lg-4 col-md-6">
+                    <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" width="600" height="600"
+                        class="img-fluid rounded shadow-sm" alt="Hotel Pool">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <img src="https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80" width="600" height="600"
+                        class="img-fluid rounded shadow-sm" alt="Hotel Restaurant">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <img src="https://images.unsplash.com/photo-1596178065887-1198b6148b2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                        class="img-fluid rounded shadow-sm" alt="Hotel Bar">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <img src="https://images.unsplash.com/photo-1539667468225-eebb663053e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1417&q=80"
+                        class="img-fluid rounded shadow-sm" alt="Hotel Spa">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <img src="https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
+                        class="img-fluid rounded shadow-sm" alt="Hotel Room">
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <img src="https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                        class="img-fluid rounded shadow-sm" alt="Hotel Lobby">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="py-5">
+        <div class="container">
+            <div class="text-center mb-5">
+                <h2 class="fw-bold">What Our Guests Say</h2>
+                <p class="lead">Hear from our satisfied customers</p>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 mb-4 mb-lg-0">
+                    <div class="card shadow-sm h-100">
+                        <div class="card-body">
+                            <div class="mb-3 text-warning">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <p class="card-text">"The Hotel Laku exceeded all my expectations. The service was
+                                impeccable, and the room was spacious and beautifully appointed. Will definitely
+                                return!"</p>
+                        </div>
+                        <div class="card-footer bg-white border-0">
+                            <div class="d-flex align-items-center">
+                                <img src="gaurav.png.jpg" class="rounded-circle me-2"
+                                    width="50" height="50" alt="Guest">
+                                <div>
+                                    <h6 class="mb-0">Gaurav Paudel</h6>
+                                    <small class="text-muted">Business Traveler</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-4 mb-lg-0">
+                    <div class="card shadow-sm h-100">
+                        <div class="card-body">
+                            <div class="mb-3 text-warning">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <p class="card-text">"Perfect location, amazing staff, and the most comfortable bed I've
+                                ever slept in. The rooftop pool is absolutely breathtaking at sunset."</p>
+                        </div>
+                        <div class="card-footer bg-white border-0">
+                            <div class="d-flex align-items-center">
+                                <img src="donaldtrump.webp" class="rounded-circle me-3"
+                                    width="50" height="50" alt="Guest">
+                                <div>
+                                    <h6 class="mb-0">Donald Trump</h6>
+                                    <small class="text-muted">Honeymooner</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card shadow-sm h-100">
+                        <div class="card-body">
+                            <div class="mb-3 text-warning">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                            </div>
+                            <p class="card-text">"The attention to detail at this hotel is remarkable. From the welcome
+                                drink to the turn-down service, every aspect was carefully considered."</p>
+                        </div>
+                        <div class="card-footer bg-white border-0">
+                            <div class="d-flex align-items-center">
+                                <img src="Rajesh1.png" class="rounded-circle me-3"
+                                    width="50" alt="Guest">
+                                <div>
+                                    <h6 class="mb-0">Rajesh Hamal</h6>
+                                    <small class="text-muted">Family Vacation</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="py-5 bg-dark text-white">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 mb-5 mb-lg-0">
+                    <h2 class="fw-bold mb-4">Contact Us</h2>
+                    <p class="mb-4">Have questions or want to make a reservation? Reach out to us!</p>
+                    <div class="mb-4">
+                        <h5><i class="fas fa-map-marker-alt me-2"></i> Address</h5>
+                        <p>Lakeside-6, pokhara</p>
+                    </div>
+                    <div class="mb-4">
+                        <h5><i class="fas fa-phone me-2"></i> Phone</h5>
+                        <p>+977 9817190680</p>
+                    </div>
+                    <div class="mb-4">
+                        <h5><i class="fas fa-envelope me-2"></i> Email</h5>
+                        <p>reservations@hotellaku.com</p>
+                    </div>
+                    <div class="social-icons">
+                        <a href="#" class="text-white me-3"><i class="fab fa-facebook-f fa-lg"></i></a>
+                        <a href="#" class="text-white me-3"><i class="fab fa-twitter fa-lg"></i></a>
+                        <a href="#" class="text-white me-3"><i class="fab fa-instagram fa-lg"></i></a>
+                        <a href="#" class="text-white"><i class="fab fa-linkedin-in fa-lg"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <form>
+                        <div class="mb-3">
+                            <label for="name" class="form-label">Name</label>
+                            <input type="text" class="form-control" id="name" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="email" class="form-label">Email</label>
+                            <input type="email" class="form-control" id="email" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="phone" class="form-label">Phone</label>
+                            <input type="tel" class="form-control" id="phone">
+                        </div>
+                        <div class="mb-3">
+                            <label for="message" class="form-label">Message</label>
+                            <textarea class="form-control" id="message" rows="4" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Send Message</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="py-4 bg-black text-white text-center">
+        <div class="container">
+            <p class="mb-0">&copy; 2025 Hotel Lakhu. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

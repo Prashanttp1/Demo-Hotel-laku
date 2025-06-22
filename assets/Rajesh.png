@@ -1,0 +1,3073 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Rajesh Hamal - Wikidata</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )wikidatawikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2b8a5fc5-7956-41ef-b0f3-cf33f3d48a64","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Q5203004","wgTitle":"Q5203004","wgCurRevisionId":2261879738,"wgRevisionId":2261879738,"wgArticleId":4972976,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikibase-item","wgRelevantPageName":"Q5203004","wgRelevantArticleId":4972976,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgNoticeProject":"wikidata","wgCiteReferencePreviewsActive":true,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wbUserPreferredContentLanguages":["en"],"wbUserSpecifiedLanguages":[],"wbCopyright":{"version":"wikibase-1","messageHtml":"By clicking \"publish\", you agree to the \u003Ca href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" class=\"extiw\" title=\"wikimedia:Terms of Use\"\u003Eterms of use\u003C/a\u003E, and you irrevocably agree to release your contribution under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\"\u003ECreative Commons CC0 License\u003C/a\u003E."},"wbBadgeItems":{"Q17437798":"wb-badge-goodarticle","Q17437796":"wb-badge-featuredarticle","Q17559452":"wb-badge-recommendedarticle","Q17506997":"wb-badge-featuredlist","Q17580674":"wb-badge-featuredportal","Q20748091":"wb-badge-notproofread","Q20748094":"wb-badge-problematic","Q20748092":"wb-badge-proofread","Q20748093":"wb-badge-validated","Q28064618":"wb-badge-digitaldocument","Q51759403":"wb-badge-goodlist","Q70893996":"wb-badge-redirect-sitelink","Q70894304":"wb-badge-redirect-intentional-sitelink"},"wbMultiLingualStringLimit":250,"wbTaintedReferencesEnabled":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[]},"wbIsEditView":true,"wbEntityId":"Q5203004","wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"personal","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"]};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","wikibase.alltargets":"ready","wikibase.desktop":"ready","jquery.wikibase.toolbar.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.wikidata-org.badges":"ready"};RLPAGEMODULES=["ext.xLab","wikibase.entityPage.entityLoaded","wikibase.ui.entityViewInit","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.AuthorityControl","ext.gadget.SiteIdToInterwiki","ext.gadget.ProtectionIndicators","ext.gadget.imagelinks","ext.gadget.formWizard","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.citoid.wikibase.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.wikimediaEvents.wikibase","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","wikibase.vector.searchClient","propertySuggester.suggestions","wikibase.quality.constraints.suggestions","wikibase.quality.constraints.gadget","ext.checkUser.clientHints","ext.quicksurveys.init"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikidata-org.badges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cjquery.wikibase.toolbar.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.alltargets%2Cdesktop&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.45.0-wmf.5">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:title" content="Rajesh Hamal">
+<meta name="description" content="Nepalese actor">
+<meta property="og:description" content="Nepalese actor">
+<meta property="og:type" content="summary">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rajesh_Hamal_in_2022_%28cropped%29.jpg/1200px-Rajesh_Hamal_in_2022_%28cropped%29.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1643">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rajesh_Hamal_in_2022_%28cropped%29.jpg/960px-Rajesh_Hamal_in_2022_%28cropped%29.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1096">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="877">
+<meta name="viewport" content="width=1120">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q5203004.json" type="application/json">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q5203004.php" type="application/vnd.php.serialized">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q5203004.n3" type="text/n3">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q5203004.ttl" type="text/turtle">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q5203004.nt" type="application/n-triples">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q5203004.rdf" type="application/rdf+xml">
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q5203004.jsonld" type="application/ld+json">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//m.wikidata.org/wiki/Q5203004">
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Q5203004&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikidata.png">
+<link rel="icon" href="/static/favicon/wikidata.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikidata (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//www.wikidata.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://www.wikidata.org/wiki/Q5203004">
+<link rel="license" href="/wiki/Wikidata:Copyright">
+<link rel="alternate" type="application/atom+xml" title="Wikidata Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Q5203004 rootpage-Q5203004 skin-vector-2022 action-view wb-entitypage wb-itempage wb-itempage-Q5203004"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikidata:Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Special:MyLanguage/Project:Community_portal" title="About the project, what you can do, where to find things"><span>Community portal</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikidata:Project_chat"><span>Project chat</span></a></li><li id="n-special-newitem" class="mw-list-item"><a href="/wiki/Special:NewItem"><span>Create a new Item</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-wikibase-randomitem" class="mw-list-item"><a href="/wiki/Special:Random/Main" title="[x]" accesskey="x"><span>Random Item</span></a></li><li id="n-wikibase-queryservice" class="mw-list-item"><a href="//query.wikidata.org/"><span>Query Service</span></a></li><li id="n-nearby-pages-title" class="mw-list-item"><a href="/wiki/Special:Nearby"><span>Nearby</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Special:MyLanguage/Help:Contents" title="The place to find out"><span>Help</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages"><span>Special pages</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-wikibase-lexeme-lexicographical-data" class="vector-menu mw-portlet mw-portlet-wikibase-lexeme-lexicographical-data"  >
+	<div class="vector-menu-heading">
+		Lexicographical data
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-special-newlexeme" class="mw-list-item"><a href="/wiki/Special:NewLexeme"><span>Create a new Lexeme</span></a></li><li id="n-recentchanges-lexemes" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:RecentChanges?namespace=146%3B147"><span>Recent changes</span></a></li><li id="n-wikibase-lexeme-randomlexeme" class="mw-list-item"><a href="/wiki/Special:Random/Lexeme"><span>Random Lexeme</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-main-menu" class="vector-menu "  >
+	<div class="vector-menu-heading">
+		
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikidata:Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikidatawiki.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikidata" src="/static/images/mobile/copyright/wikidatawiki-wordmark.svg" style="width: 8.125em; height: 1.0625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikidata [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput"
+							 type="search" name="search" placeholder="Search Wikidata" aria-label="Search Wikidata" autocapitalize="sentences" spellcheck="false" title="Search Wikidata [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-uls" class="mw-list-item active user-links-collapsible-item"><a data-mw="interface" href="#" class="uls-trigger cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>English</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=www.wikidata.org&amp;uselang=en" class=""><span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Q5203004" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Q5203004" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="More options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=www.wikidata.org&amp;uselang=en"><span>Donate</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Q5203004" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Q5203004" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="wikibase-title ">
+<span class="wikibase-title-label">Rajesh Hamal</span>
+<span class="wikibase-title-id">(Q5203004)</span>
+</span></h1>
+						<div class="mw-indicators">
+		</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Q5203004" title="View the item [c]" accesskey="c"><span>Item</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Talk:Q5203004&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Discussion about the content page (page does not exist) [t]" accesskey="t"><span>Discussion</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Q5203004"><span>Read</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Q5203004&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Q5203004"><span>Read</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Q5203004&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Q5203004" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Q5203004" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Q5203004&amp;oldid=2261879738" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Q5203004&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Q5203004&amp;id=2261879738&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fwww.wikidata.org%2Fwiki%2FQ5203004"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fwww.wikidata.org%2Fwiki%2FQ5203004"><span>Download QR code</span></a></li><li id="t-wb-concept-uri" class="mw-list-item"><a href="http://www.wikidata.org/entity/Q5203004" title="URI that identifies the concept described by this Item"><span>Concept URI</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Q5203004"><span>Create a book</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Q5203004&amp;action=show-download-screen"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Q5203004&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+					
+						<div id="siteSub" class="noprint">From Wikidata</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div id="wb-item-Q5203004" class="wikibase-entityview wb-item" lang="en" dir="ltr">
+<div class="wikibase-entityview-main"><div class="wikibase-entitytermsview">
+<div class="wikibase-entitytermsview-heading">
+<div class="wikibase-entitytermsview-heading-description ">Nepalese actor</div><div class="wikibase-entitytermsview-heading-aliases "><ul class="wikibase-entitytermsview-aliases"><li class="wikibase-entitytermsview-aliases-alias" data-aliases-separator="|">Rajesh Dai</li><li class="wikibase-entitytermsview-aliases-alias" data-aliases-separator="|">Mahanayak</li><li class="wikibase-entitytermsview-aliases-alias" data-aliases-separator="|">Mahanayk Rajesh Hamal</li><li class="wikibase-entitytermsview-aliases-alias" data-aliases-separator="|">Shankar</li><li class="wikibase-entitytermsview-aliases-alias" data-aliases-separator="|">Rajesh Hamal Dai</li><li class="wikibase-entitytermsview-aliases-alias" data-aliases-separator="|">Rajesh</li><li class="wikibase-entitytermsview-aliases-alias" data-aliases-separator="|">Hamal</li></ul></div>
+</div>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetLabelDescriptionAliases/Q5203004/en" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+<div class="wikibase-entitytermsview-entitytermsforlanguagelistview "><table class="wikibase-entitytermsforlanguagelistview">
+<thead class="wikibase-entitytermsforlanguagelistview-header">
+<tr class="wikibase-entitytermsforlanguagelistview-header-row">
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-language">Language</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-label">Label</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-description">Description</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-aliases">Also known as</th>
+</tr>
+</thead>
+<tbody class="wikibase-entitytermsforlanguagelistview-listview"><tr class="wikibase-entitytermsforlanguageview wikibase-entitytermsforlanguageview-mul" >
+<th class="wikibase-entitytermsforlanguageview-language">default for all languages</th>
+<td class="wikibase-entitytermsforlanguageview-label"><div class="wikibase-labelview wb-empty" dir="ltr" lang="en"><div class="wikibase-labelview-container"><span class="wikibase-labelview-text">No label defined</span></div></div></td>
+<td class="wikibase-entitytermsforlanguageview-description"><div class="wikibase-descriptionview wikibase-descriptionview--mul wb-empty" dir="auto" lang="en">
+<div class="wikibase-descriptionview-container">
+<span class="wikibase-descriptionview-text">
+<abbr title="It is not possible to set a default description for all languages"><span aria-hidden="true">–</span></abbr>
+</span>
+</div>
+</div></td>
+<td class="wikibase-entitytermsforlanguageview-aliases"><div class="wikibase-aliasesview wb-empty">
+<ul class="wikibase-aliasesview-list" dir="" lang="mul"></ul>
+
+</div></td>
+
+</tr><tr class="wikibase-entitytermsforlanguageview wikibase-entitytermsforlanguageview-en" >
+<th class="wikibase-entitytermsforlanguageview-language">English</th>
+<td class="wikibase-entitytermsforlanguageview-label"><div class="wikibase-labelview " dir="ltr" lang="en"><div class="wikibase-labelview-container"><span class="wikibase-labelview-text">Rajesh Hamal</span></div></div></td>
+<td class="wikibase-entitytermsforlanguageview-description"><div class="wikibase-descriptionview " dir="ltr" lang="en"><div class="wikibase-descriptionview-container"><span class="wikibase-descriptionview-text">Nepalese actor</span></div></div></td>
+<td class="wikibase-entitytermsforlanguageview-aliases"><div class="wikibase-aliasesview ">
+<ul class="wikibase-aliasesview-list" dir="ltr" lang="en"><li class="wikibase-aliasesview-list-item">Rajesh Dai</li><li class="wikibase-aliasesview-list-item">Mahanayak</li><li class="wikibase-aliasesview-list-item">Mahanayk Rajesh Hamal</li><li class="wikibase-aliasesview-list-item">Shankar</li><li class="wikibase-aliasesview-list-item">Rajesh Hamal Dai</li><li class="wikibase-aliasesview-list-item">Rajesh</li><li class="wikibase-aliasesview-list-item">Hamal</li></ul>
+
+</div></td>
+
+</tr></tbody>
+</table></div>
+</div><div id="toc"></div><h2 class="wb-section-heading section-heading wikibase-statements" dir="auto" id="claims">Statements</h2><div class="wikibase-statementgrouplistview"><div class="wikibase-listview"><div class="wikibase-statementgroupview" id="P31" data-property-id="P31">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P31" href="/wiki/Property:P31">instance of</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$07F539CF-E6F6-4284-987D-9EA919730818" class="wikibase-statementview wikibase-statement-Q5203004$07F539CF-E6F6-4284-987D-9EA919730818 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q5" href="/wiki/Q5">human</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P18" data-property-id="P18">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P18" href="/wiki/Property:P18">image</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$88C85038-F3FB-48FE-9F46-B58FD3D6546F" class="wikibase-statementview wikibase-statement-Q5203004$88C85038-F3FB-48FE-9F46-B58FD3D6546F wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-adac3a077bf10d362b5cf27e4da4c6e16844846f">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><div class="thumb"><a class="image" href="https://commons.wikimedia.org/wiki/File:Rajesh_Hamal_in_2022_(cropped).jpg"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rajesh_Hamal_in_2022_%28cropped%29.jpg/250px-Rajesh_Hamal_in_2022_%28cropped%29.jpg" decoding="async" width="250" height="342" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rajesh_Hamal_in_2022_%28cropped%29.jpg/500px-Rajesh_Hamal_in_2022_%28cropped%29.jpg 1.5x" data-file-width="1453" data-file-height="1990"></span></a></div><div class="commons-media-caption"><a href="https://commons.wikimedia.org/wiki/File:Rajesh_Hamal_in_2022_(cropped).jpg">Rajesh Hamal in 2022 (cropped).jpg</a><br>1,453 × 1,990; 2.37 MB</div></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-c547fd5339cb7671f6c37d8cc28608e05122cd25">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P585" href="/wiki/Property:P585">point in time</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">15 March 2022</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P21" data-property-id="P21">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P21" href="/wiki/Property:P21">sex or gender</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$B0B97AAB-4701-4966-9BB1-B5EF2F0FB58D" class="wikibase-statementview wikibase-statement-Q5203004$B0B97AAB-4701-4966-9BB1-B5EF2F0FB58D wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-85ad4b1c7348f7a5aac521135040d74e91fb5939">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q6581097" href="/wiki/Q6581097">male</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-5c0fa0d334b12fb6fd96eeccd70c1bfbc0491a41">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-0f89b02e7a7b9408e3cd5c2b9cae2f47d84944d5">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P887" href="/wiki/Property:P887">based on heuristic</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q69652498" href="/wiki/Q69652498">inferred from person's given name</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P27" data-property-id="P27">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P27" href="/wiki/Property:P27">country of citizenship</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$871DAAC5-553B-4E33-8E50-54B8A5192A1F" class="wikibase-statementview wikibase-statement-Q5203004$871DAAC5-553B-4E33-8E50-54B8A5192A1F wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-dcf0392c7c2f17d2f79177dc5b6296106a979d40">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q837" href="/wiki/Q837">Nepal</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P1559" data-property-id="P1559">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P1559" href="/wiki/Property:P1559">name in native language</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$78c3973a-4faf-7c14-c8b6-03f5db3816fb" class="wikibase-statementview wikibase-statement-Q5203004$78c3973a-4faf-7c14-c8b6-03f5db3816fb wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-3cb83dce3a923671b69942d99d1c708061df06b6">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><span lang="ne" class="wb-monolingualtext-value">राजेश हमाल</span> <span class="wb-monolingualtext-language-name" dir="auto">(Nepali)</span></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P735" data-property-id="P735">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P735" href="/wiki/Property:P735">given name</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$61e23a63-4e28-13c7-8673-5e965a494cee" class="wikibase-statementview wikibase-statement-Q5203004$61e23a63-4e28-13c7-8673-5e965a494cee wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-b68facc011cd6a3bf9ae712d98ec584c4f68ae79">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q2128703" href="/wiki/Q2128703">Rajesh</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-2a1ced1dca90648ea7e306acbadd74fc81a10722">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P1545" href="/wiki/Property:P1545">series ordinal</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">1</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-323be97becfd18ea6625da4b3770079385901a18">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-b40d6c0ac6eb965460f92fade101fe40a3c44239">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P887" href="/wiki/Property:P887">based on heuristic</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q97033143" href="/wiki/Q97033143">inferred from person's full name</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P734" data-property-id="P734">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P734" href="/wiki/Property:P734">family name</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$941895fb-430f-7887-d32b-ed3e3c3634ec" class="wikibase-statementview wikibase-statement-Q5203004$941895fb-430f-7887-d32b-ed3e3c3634ec wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-20a2029051aa31fd6a3b17681d494e5e6eb45844">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q37564407" href="/wiki/Q37564407">Hamal</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-323be97becfd18ea6625da4b3770079385901a18">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-b40d6c0ac6eb965460f92fade101fe40a3c44239">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P887" href="/wiki/Property:P887">based on heuristic</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q97033143" href="/wiki/Q97033143">inferred from person's full name</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P569" data-property-id="P569">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P569" href="/wiki/Property:P569">date of birth</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$2F54C904-45AC-4C7F-BD5C-C7821ADE8503" class="wikibase-statementview wikibase-statement-Q5203004$2F54C904-45AC-4C7F-BD5C-C7821ADE8503 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-8baee59dea42a653170fffaca2756d2937acec9f">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">9 June 1964</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P19" data-property-id="P19">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P19" href="/wiki/Property:P19">place of birth</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$8CE5C3A1-BEF1-4705-A03D-95CD27C30832" class="wikibase-statementview wikibase-statement-Q5203004$8CE5C3A1-BEF1-4705-A03D-95CD27C30832 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-fb1db7a81445665201143d50216a249c856572d9">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q28440" href="/wiki/Q28440">Palpa District</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P26" data-property-id="P26">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P26" href="/wiki/Property:P26">spouse</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$8fc72567-49c2-2c0f-4904-d7e54d5b54b8" class="wikibase-statementview wikibase-statement-Q5203004$8fc72567-49c2-2c0f-4904-d7e54d5b54b8 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-8ea54589af8d6ec654513927d33782ad5fa75783">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q56187687" href="/wiki/Q56187687">Madhu Bhattarai</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-bee3cd83ff5f413745df62b88072f2e7cb5fe5d2">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P580" href="/wiki/Property:P580">start time</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">2014</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-140a70a3428001bfad8c191a0377b5738c1c0119">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-af96dd71fcacfa891416de630325de21ae1ad7d5">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P854" href="/wiki/Property:P854">reference URL</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="https://myrepublica.nagariknetwork.com/news/litmus-cables-appoints-superstar-rajesh-hamal-and-his-spouse-madhu-as-its-brand-ambassadors/?categoryId=81">https://myrepublica.nagariknetwork.com/news/litmus-cables-appoints-superstar-rajesh-hamal-and-his-spouse-madhu-as-its-brand-ambassadors/?categoryId=81</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P1971" data-property-id="P1971">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P1971" href="/wiki/Property:P1971">number of children</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$fb3abf33-4fc0-e9af-d431-9b551ea854a0" class="wikibase-statementview wikibase-statement-Q5203004$fb3abf33-4fc0-e9af-d431-9b551ea854a0 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-37c7e2ccc275fd028792e682d6b88feac136f1e6">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">0</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P1038" data-property-id="P1038">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P1038" href="/wiki/Property:P1038">relative</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$f8a04537-43d8-eaff-1dec-035922aebe09" class="wikibase-statementview wikibase-statement-Q5203004$f8a04537-43d8-eaff-1dec-035922aebe09 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-5b790569f4e73a3fc4942291526869d62a944ed9">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q5250530" href="/wiki/Q5250530">Deepak Rayamajhi</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-6d4c55bd43444564eba7ae96b6ee7287a30dc05a">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P1039" href="/wiki/Property:P1039">kinship to subject</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q4120409" href="/wiki/Q4120409">maternal uncle</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-cff025fd1bc357d7bbb6ece220b75754604abc2e">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e376daf220208c2f3b2e415237aa66e796c4287d">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P854" href="/wiki/Property:P854">reference URL</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="https://xnepali.net/first-scandal-of-nepali-movie-industry-rajesh-hamal-and-kristi-kc-kicked-out-of-bhagya-rekha/">https://xnepali.net/first-scandal-of-nepali-movie-industry-rajesh-hamal-and-kristi-kc-kicked-out-of-bhagya-rekha/</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P1412" data-property-id="P1412">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P1412" href="/wiki/Property:P1412">languages spoken, written or signed</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$1d7576f9-4b28-4f0b-c3eb-66839c95dcdf" class="wikibase-statementview wikibase-statement-Q5203004$1d7576f9-4b28-4f0b-c3eb-66839c95dcdf wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-8f2fa1ea36247894fd8de95938c5b0f2da75d9f6">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q33823" href="/wiki/Q33823">Nepali</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-3653c6bae0ae49753276e989a8efc0919f56da2b">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-8a88721b9d2c4547655a956777f9716d0243dc6b">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q8560590" href="/wiki/Q8560590">Nepali Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P106" data-property-id="P106">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P106" href="/wiki/Property:P106">occupation</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$6A31475A-3E3C-4AA7-A029-CB4EBB4BFADD" class="wikibase-statementview wikibase-statement-Q5203004$6A31475A-3E3C-4AA7-A029-CB4EBB4BFADD wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-758295c4843ebfb766fc8236d4849374401bd73e">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q33999" href="/wiki/Q33999">actor</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">2 references</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-b9c3a38eacb98e91729c0c1c401c7a68ea3d7c5d">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-d1ea2fcaf082de1d8a61c2ac04afbd3ea814f0de">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P248" href="/wiki/Property:P248">stated in</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q18709181" href="/wiki/Q18709181" lang="mul">Letterboxd</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-5b7072602c6f3ac5c64cca5704eb8ecde6dd9217">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P6119" href="/wiki/Property:P6119">Letterboxd actor ID</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://letterboxd.com/actor/rajesh-hamal/" rel="nofollow">rajesh-hamal</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-ac7e5b7544abce36beac0df5c9256d1ba6cc3c62">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">4 April 2022</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div><div class="wikibase-referenceview wikibase-referenceview-8536d24b6569cb2c800f39e799153160f1cc79ff">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-de33ead18558e3fac9ec320dc1e1cf9088b64e07">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P248" href="/wiki/Property:P248">stated in</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q15065727" href="/wiki/Q15065727">CineMagia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-6b458c90bb90cceac8d2d0d70cde1ea9eb620985">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P4666" href="/wiki/Property:P4666">CineMagia person ID</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.cinemagia.ro/actor.php?actor_id=1506681" rel="nofollow">1506681</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-ac7e5b7544abce36beac0df5c9256d1ba6cc3c62">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">4 April 2022</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div><div id="Q5203004$C9E8B76F-E057-489A-9F07-DA8DA0B51DBE" class="wikibase-statementview wikibase-statement-Q5203004$C9E8B76F-E057-489A-9F07-DA8DA0B51DBE wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-fd333f7ddf062dc31dec2524e8e82373bf449f51">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q4610556" href="/wiki/Q4610556">model</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q5203004$b78f4bd8-464b-8b5b-06d5-ada5336c63d5" class="wikibase-statementview wikibase-statement-Q5203004$b78f4bd8-464b-8b5b-06d5-ada5336c63d5 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-5d9aed2c3197fcda899ff4eb02863355294acc5b">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q177220" href="/wiki/Q177220">singer</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q5203004$8e28f9e1-4160-eda5-543e-8236f54e2476" class="wikibase-statementview wikibase-statement-Q5203004$8e28f9e1-4160-eda5-543e-8236f54e2476 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-1fbdb5bb094fb1053ed8888aaf72d14fd8e7fc68">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q3282637" href="/wiki/Q3282637">film producer</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q5203004$c8d0fbc2-4ac9-8715-1e53-ac82f5af952d" class="wikibase-statementview wikibase-statement-Q5203004$c8d0fbc2-4ac9-8715-1e53-ac82f5af952d wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-8ba9bae782b5c204a6f2a1c96916eb595f77945d">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q2526255" href="/wiki/Q2526255">film director</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-c909821208414fe58ca6f510716bb14b3056f9f0">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-b7710a589a3b72ebdd52fd6d5002a0b335b159e0">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P854" href="/wiki/Property:P854">reference URL</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="http://kathmandupost.ekantipur.com/news/2017-06-25/rajesh-hamal-to-turn-to-direction.html">http://kathmandupost.ekantipur.com/news/2017-06-25/rajesh-hamal-to-turn-to-direction.html</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div><div id="Q5203004$910c6637-4cef-bece-8d87-844bc71472f4" class="wikibase-statementview wikibase-statement-Q5203004$910c6637-4cef-bece-8d87-844bc71472f4 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-c307f9322a77c79c09375d7858ed2acfe0d39b35">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q13590141" href="/wiki/Q13590141">presenter</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q5203004$C0209E17-9B0F-4A34-9529-EC4894288A2B" class="wikibase-statementview wikibase-statement-Q5203004$C0209E17-9B0F-4A34-9529-EC4894288A2B wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-1eba09bcad27633cc6b41ce6096f03323ae8b4a6">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q10798782" href="/wiki/Q10798782">television actor</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P69" data-property-id="P69">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P69" href="/wiki/Property:P69">educated at</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$2cf072ec-4670-0646-2715-f398afa97422" class="wikibase-statementview wikibase-statement-Q5203004$2cf072ec-4670-0646-2715-f398afa97422 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-c244655cfda1d7fe74dc0044d507bce37a76cf8e">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q4901049" href="/wiki/Q4901049">Bhanubhakta Memorial Higher Secondary School</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-8dbc2e5b512d32f186b14e4ff2ccff37bb687bfd">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-270548ca37cac8e5eb1057376ca7f27b0e2a0420">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">3 May 2019</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div><div id="Q5203004$e637c9ca-4777-e741-50b1-b7c233b7f20f" class="wikibase-statementview wikibase-statement-Q5203004$e637c9ca-4777-e741-50b1-b7c233b7f20f wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-1766b2cd276732d9fe7d6be88821452241088266">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q665105" href="/wiki/Q665105">University of Delhi</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-8dbc2e5b512d32f186b14e4ff2ccff37bb687bfd">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-270548ca37cac8e5eb1057376ca7f27b0e2a0420">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">3 May 2019</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P551" data-property-id="P551">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P551" href="/wiki/Property:P551">residence</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$FA82E651-FF3D-4D62-A2A4-B441FAFFED96" class="wikibase-statementview wikibase-statement-Q5203004$FA82E651-FF3D-4D62-A2A4-B441FAFFED96 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-66cbc8ef4ed9ff10911ec5e14078e15bda4c10cb">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q3037" href="/wiki/Q3037">Kathmandu</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P1303" data-property-id="P1303">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P1303" href="/wiki/Property:P1303">instrument</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$EE783C70-E5BC-4FF0-A988-F3FF5A08CC85" class="wikibase-statementview wikibase-statement-Q5203004$EE783C70-E5BC-4FF0-A988-F3FF5A08CC85 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-51446aa88f4758a24ef3452a1ff1c6ff2a2add2e">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q17172850" href="/wiki/Q17172850">voice</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P1283" data-property-id="P1283">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P1283" href="/wiki/Property:P1283">filmography</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$C1B32505-D825-436A-A3D7-39218D803340" class="wikibase-statementview wikibase-statement-Q5203004$C1B32505-D825-436A-A3D7-39218D803340 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-a726d3f4a2fad668c0e385e20174ff7fd3468b63">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q85795733" href="/wiki/Q85795733">Rajesh Hamal filmography</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P800" data-property-id="P800">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P800" href="/wiki/Property:P800">notable work</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$84bd130d-4b25-2116-b324-95074b2643fe" class="wikibase-statementview wikibase-statement-Q5203004$84bd130d-4b25-2116-b324-95074b2643fe wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-08332fde3389a5dd99501ebc870566aa7eb351ce">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q25620351" href="/wiki/Q25620351">Yug Dekhi Yug Samma</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-d980c0290432fbe5ab613ee939ad27596bce2f1a">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-0bad15be5b0b493a15425adee8e8bf48e0cc8c27">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P854" href="/wiki/Property:P854">reference URL</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="https://kathmandupost.com/art-entertainment/2017/06/25/rajesh-hamal-to-turn-to-direction">https://kathmandupost.com/art-entertainment/2017/06/25/rajesh-hamal-to-turn-to-direction</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-629c546c949bdcf8c5a027c86cdf3e6414c8a9c1">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">9 December 2021</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P856" data-property-id="P856">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P856" href="/wiki/Property:P856">official website</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$47f6147d-4175-c184-40da-558c9610b1b3" class="wikibase-statementview wikibase-statement-Q5203004$47f6147d-4175-c184-40da-558c9610b1b3 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-c1c9b503215bbec4969e3a7fe11139189c31541a">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="https://rajeshhamal.com.np">https://rajeshhamal.com.np</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P935" data-property-id="P935">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P935" href="/wiki/Property:P935">Commons gallery</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$0EF82F01-696F-4BA8-BB56-D54E245F2553" class="wikibase-statementview wikibase-statement-Q5203004$0EF82F01-696F-4BA8-BB56-D54E245F2553 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-1dad1277a4195a0bff1272d18c65e368b040c60c">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">Rajesh Hamal</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P373" data-property-id="P373">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P373" href="/wiki/Property:P373">Commons category</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$7F448BB6-A976-4866-9AEE-0BEA087BE137" class="wikibase-statementview wikibase-statement-Q5203004$7F448BB6-A976-4866-9AEE-0BEA087BE137 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-572b7cc895d932ac9d7d3bbd65a661056da934a1">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">Rajesh Hamal</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P910" data-property-id="P910">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P910" href="/wiki/Property:P910">topic's main category</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$FD87B312-B99F-4FC9-8718-6735BE758A1E" class="wikibase-statementview wikibase-statement-Q5203004$FD87B312-B99F-4FC9-8718-6735BE758A1E wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-c7b6270d776b914d6ea485ad4fdca7fcbc1e66d9">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q55304691" href="/wiki/Q55304691">Category:Rajesh Hamal</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div></div></div><h2 class="wb-section-heading section-heading wikibase-statements wikibase-statements-identifiers" dir="auto" id="identifiers">Identifiers</h2><div class="wikibase-statementgrouplistview"><div class="wikibase-listview"><div class="wikibase-statementgroupview" id="P213" data-property-id="P213">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P213" href="/wiki/Property:P213">ISNI</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$13d7f7d5-410f-6e87-2bf0-a16ecdabd4b3" class="wikibase-statementview wikibase-statement-Q5203004$13d7f7d5-410f-6e87-2bf0-a16ecdabd4b3 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-a49c0f65766db388a4473af50da6aabf24a0ef80">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://isni.org/isni/0000000475554868" rel="nofollow">0000000475554868</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P4666" data-property-id="P4666">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P4666" href="/wiki/Property:P4666">CineMagia person ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$3643f73d-467d-2233-860f-d6633ad8ca44" class="wikibase-statementview wikibase-statement-Q5203004$3643f73d-467d-2233-860f-d6633ad8ca44 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-6b458c90bb90cceac8d2d0d70cde1ea9eb620985">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.cinemagia.ro/actor.php?actor_id=1506681" rel="nofollow">1506681</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P2605" data-property-id="P2605">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P2605" href="/wiki/Property:P2605">ČSFD person ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$44691fd1-40df-9c05-81e6-ace4a819cbaf" class="wikibase-statementview wikibase-statement-Q5203004$44691fd1-40df-9c05-81e6-ace4a819cbaf wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-af54174b8e4ae4283a9aeea9343182fed349de12">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.csfd.cz/tvurce/406790" rel="nofollow">406790</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P2013" data-property-id="P2013">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P2013" href="/wiki/Property:P2013">Facebook username</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$3060862c-4e05-32d8-cb01-4caf3fe221f1" class="wikibase-statementview wikibase-statement-Q5203004$3060862c-4e05-32d8-cb01-4caf3fe221f1 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-da5a9676e4f9798ade202e97acfc1d6ae2767a50">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.facebook.com/Rajesh-Hamal-1588903248055504" rel="nofollow">Rajesh-Hamal-1588903248055504</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P6262" data-property-id="P6262">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P6262" href="/wiki/Property:P6262">Fandom article ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$3424a3b1-4dc8-deb3-97a7-f012adf5b00a" class="wikibase-statementview wikibase-statement-Q5203004$3424a3b1-4dc8-deb3-97a7-f012adf5b00a wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-741f36869d674738f3a65a20bdbc49b53f5bbc5a">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://community.fandom.com/wiki/w:c:millionaire%3ARajesh_Hamal" rel="nofollow">millionaire:Rajesh_Hamal</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-daf1c4fcb58181b02dff9cc89deb084004ddae4b">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P407" href="/wiki/Property:P407">language of work or name</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q1860" href="/wiki/Q1860">English</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P5033" data-property-id="P5033">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P5033" href="/wiki/Property:P5033">Filmweb.pl person ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$050fbe55-4cf9-4208-a485-02f58ce158de" class="wikibase-statementview wikibase-statement-Q5203004$050fbe55-4cf9-4208-a485-02f58ce158de wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-f28470a897fbfc30fb4bf8a3fefba52ef953aafd">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.filmweb.pl/person?Id=452025" rel="nofollow">452025</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P646" data-property-id="P646">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P646" href="/wiki/Property:P646">Freebase ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$D7CBB604-7141-41FF-A486-86E52A370859" class="wikibase-statementview wikibase-statement-Q5203004$D7CBB604-7141-41FF-A486-86E52A370859 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-c6b99fea17559cb733e05d4e06f05b054ae329ec">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.google.com/search?kgmid=/m/0gb6d9" rel="nofollow">/m/0gb6d9</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P6914" data-property-id="P6914">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P6914" href="/wiki/Property:P6914">Gaana artist ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$936b8210-421e-334b-096d-aae46c880e3a" class="wikibase-statementview wikibase-statement-Q5203004$936b8210-421e-334b-096d-aae46c880e3a wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-1300c40c7af6d41b12f782ead00dae68ba5389bc">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://gaana.com/artist/rajesh-hamal" rel="nofollow">rajesh-hamal</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P345" data-property-id="P345">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P345" href="/wiki/Property:P345">IMDb ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="q5203004$FD69E83B-83F4-41EC-B004-C9CC05194082" class="wikibase-statementview wikibase-statement-q5203004$FD69E83B-83F4-41EC-B004-C9CC05194082 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-2bd16cdaedd5af46f4ad638569e5a329629d2708">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://wikidata-externalid-url.toolforge.org/?p=345&amp;url_prefix=https://www.imdb.com/&amp;id=nm1101742" rel="nofollow">nm1101742</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">2 references</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div><div class="wikibase-referenceview wikibase-referenceview-7fb9f08ffb3bb4ea1c5127adf9d8457f27bade89">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-f3e99660a4a99c505f45b32a146e9aba87ef75ef">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P887" href="/wiki/Property:P887">based on heuristic</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q1266546" href="/wiki/Q1266546">record linkage</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-623cc8f0e2f65afe4d66b91962d354a2f3aa9a27">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P248" href="/wiki/Property:P248">stated in</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q14005" href="/wiki/Q14005">MusicBrainz</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-a1a603f0919e12dd76cdc9c8706b90052468e1b6">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P434" href="/wiki/Property:P434">MusicBrainz artist ID</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://musicbrainz.org/artist/00e34f0d-c190-44c5-9472-28d18cae29c4" rel="nofollow">00e34f0d-c190-44c5-9472-28d18cae29c4</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-85ea22a51e2754f68995adedbe871fb46b17df5f">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">29 September 2021</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P2003" data-property-id="P2003">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P2003" href="/wiki/Property:P2003">Instagram username</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$af83df0b-494d-ae4c-abc9-cb5c9f5b7336" class="wikibase-statementview wikibase-statement-Q5203004$af83df0b-494d-ae4c-abc9-cb5c9f5b7336 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-fb0999709335c8b4b3251f5d47f27ce53551efc0">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.instagram.com/hamalrajesh/" rel="nofollow">hamalrajesh</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-47513a69967a7121436a9e0d90c7b46789a4b125">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P3744" href="/wiki/Property:P3744">number of subscribers</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">426,369</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-c17d6198ad63582cfbe4a5e5ec7512824b66ef0f">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P585" href="/wiki/Property:P585">point in time</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">17 October 2024</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-9baf4c1ff64bece8de3b78904cd3e03c425f6c12">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P3740" href="/wiki/Property:P3740">number of works</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">1,513</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-daf1c4fcb58181b02dff9cc89deb084004ddae4b">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P407" href="/wiki/Property:P407">language of work or name</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q1860" href="/wiki/Q1860">English</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P12098" data-property-id="P12098">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P12098" href="/wiki/Property:P12098">Kinobox person ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$7D5CBA4B-9F08-4AD5-BECA-8FE02D1583F3" class="wikibase-statementview wikibase-statement-Q5203004$7D5CBA4B-9F08-4AD5-BECA-8FE02D1583F3 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-999095c1709a9fd4a84b29dfd6da12a794d53d31">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.kinobox.cz/osobnosti/1100926" rel="nofollow">1100926</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P2604" data-property-id="P2604">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P2604" href="/wiki/Property:P2604">Kinopoisk person ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$2dc00e83-41a0-b514-cfea-4bb889693855" class="wikibase-statementview wikibase-statement-Q5203004$2dc00e83-41a0-b514-cfea-4bb889693855 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-74a2d1d345d8c3fc5f252850abc297dde11b93eb">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.kinopoisk.ru/name/953096/" rel="nofollow">953096</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P6119" data-property-id="P6119">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P6119" href="/wiki/Property:P6119">Letterboxd actor ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$a29a54b9-45d1-768c-b5c0-26472ff3062b" class="wikibase-statementview wikibase-statement-Q5203004$a29a54b9-45d1-768c-b5c0-26472ff3062b wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-5b7072602c6f3ac5c64cca5704eb8ecde6dd9217">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://letterboxd.com/actor/rajesh-hamal/" rel="nofollow">rajesh-hamal</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P434" data-property-id="P434">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P434" href="/wiki/Property:P434">MusicBrainz artist ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$76b5c620-486f-ee60-ec5c-e91cad709bbb" class="wikibase-statementview wikibase-statement-Q5203004$76b5c620-486f-ee60-ec5c-e91cad709bbb wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-a1a603f0919e12dd76cdc9c8706b90052468e1b6">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://musicbrainz.org/artist/00e34f0d-c190-44c5-9472-28d18cae29c4" rel="nofollow">00e34f0d-c190-44c5-9472-28d18cae29c4</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P496" data-property-id="P496">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P496" href="/wiki/Property:P496">ORCID iD</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$090462bc-480d-420b-7ec1-cf6f399034f7" class="wikibase-statementview wikibase-statement-Q5203004$090462bc-480d-420b-7ec1-cf6f399034f7 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-dadf1653e75751c4bc9b18228f0acca04ff788e7">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://orcid.org/0000-0002-9695-126X" rel="nofollow">0000-0002-9695-126X</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P3417" data-property-id="P3417">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P3417" href="/wiki/Property:P3417">Quora topic ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$648A0BEB-B5D5-4988-A506-F02811E7A802" class="wikibase-statementview wikibase-statement-Q5203004$648A0BEB-B5D5-4988-A506-F02811E7A802 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-ce281ca365083828b028fddf1981553ee4282956">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.quora.com/topic/Rajesh-Hamal" rel="nofollow">Rajesh-Hamal</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-3b0a5bb3c1f955edce73740124f7d935698092ad">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-3ac9682e789a3a3791d4fd088b265ea03abef101">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P248" href="/wiki/Property:P248">stated in</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q51711" href="/wiki/Q51711">Quora</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P1902" data-property-id="P1902">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P1902" href="/wiki/Property:P1902">Spotify artist ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$bd15a479-468b-5d75-1a5d-be05e7dc9a15" class="wikibase-statementview wikibase-statement-Q5203004$bd15a479-468b-5d75-1a5d-be05e7dc9a15 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-650c6bfff11482af8582dffef9f1e2b1ba589e77">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://open.spotify.com/artist/2Bf02X4ojG2jCyp9jJJdtR" rel="nofollow">2Bf02X4ojG2jCyp9jJJdtR</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P4204" data-property-id="P4204">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P4204" href="/wiki/Property:P4204">The Times of India topic ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$299a5c7c-4781-9bdd-7f52-faabf4a1c32d" class="wikibase-statementview wikibase-statement-Q5203004$299a5c7c-4781-9bdd-7f52-faabf4a1c32d wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-c67760950c7bc30d41fdcde3dabacebebe05d88a">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://timesofindia.indiatimes.com/topic/Rajesh-Hamal" rel="nofollow">Rajesh-Hamal</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P4985" data-property-id="P4985">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P4985" href="/wiki/Property:P4985">TMDB person ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$7d66cb4a-44d9-e298-9e40-ab59b86994bc" class="wikibase-statementview wikibase-statement-Q5203004$7d66cb4a-44d9-e298-9e40-ab59b86994bc wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-eee54fa899dd17489ece19eaa3a0685b49b4e544">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.themoviedb.org/person/1922456" rel="nofollow">1922456</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P3845" data-property-id="P3845">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P3845" href="/wiki/Property:P3845">TV Guide person ID (former scheme)</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q5203004$35659546-4c4d-7f50-c2f8-ce78292da841" class="wikibase-statementview wikibase-statement-Q5203004$35659546-4c4d-7f50-c2f8-ce78292da841 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-0afb0abe93c3aa86b0ff1305d91609867d4cf7e3">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.tvguide.com/celebrities/wd/3000797902" rel="nofollow">3000797902</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div></div></div></div>
+<div class="wikibase-entityview-side"><div class="wikibase-pageImage">
+<div class="help">
+<span class="wb-help-field-hint wikibase-toolbar-item wikibase-wbtooltip" title="This image is taken from the statements of this Item. You can adjust the image by changing the statement.">&nbsp;</span>
+</div>
+</div><h2 class="wb-section-heading section-heading wikibase-sitelinks" dir="auto" id="sitelinks">Sitelinks</h2><div class="wikibase-sitelinkgrouplistview"><div class="wikibase-listview"><div class="wikibase-sitelinkgroupview mw-collapsible" data-wb-sitelinks-group="wikipedia">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikipedia">Wikipedia<span class="wikibase-sitelinkgroupview-counter">(14 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q5203004" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-arzwiki" data-wb-siteid="arzwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-arzwiki" title="Egyptian Arabic">arzwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-arzwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="arz"><a href="https://arz.wikipedia.org/wiki/%D8%B1%D8%A7%DA%86%D9%8A%D8%B4_%D9%87%D8%A7%D9%85%D8%A7%D9%84" hreflang="arz" title="راچيش هامال">راچيش هامال</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-bhwiki" data-wb-siteid="bhwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-bhwiki" title="Bhojpuri">bhwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-bhwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%87%E0%A4%B6_%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B2" hreflang="bh" title="राजेश हमाल">राजेश हमाल</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-bnwiki" data-wb-siteid="bnwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-bnwiki" title="Bangla">bnwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-bnwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B6_%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%B2" hreflang="bn" title="রাজেশ হমাল">রাজেশ হমাল</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-dtywiki" data-wb-siteid="dtywiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-dtywiki" title="Doteli">dtywiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-dtywiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%87%E0%A4%B6_%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B2" hreflang="dty" title="राजेश हमाल">राजेश हमाल</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-enwiki" data-wb-siteid="enwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-enwiki" title="English">enwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-enwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="en"><a href="https://en.wikipedia.org/wiki/Rajesh_Hamal" hreflang="en" title="Rajesh Hamal">Rajesh Hamal</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-hiwiki" data-wb-siteid="hiwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-hiwiki" title="Hindi">hiwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-hiwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%87%E0%A4%B6_%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B2" hreflang="hi" title="राजेश हमाल">राजेश हमाल</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-maiwiki" data-wb-siteid="maiwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-maiwiki" title="Maithili">maiwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-maiwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%87%E0%A4%B6_%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B2" hreflang="mai" title="राजेश हमाल">राजेश हमाल</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-mrwiki" data-wb-siteid="mrwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-mrwiki" title="Marathi">mrwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-mrwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%87%E0%A4%B6_%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B2" hreflang="mr" title="राजेश हमाल">राजेश हमाल</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-newiki" data-wb-siteid="newiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-newiki" title="Nepali">newiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-newiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%87%E0%A4%B6_%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B2" hreflang="ne" title="राजेश हमाल">राजेश हमाल</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"><span class="wb-badge wb-badge-Q17437796 wb-badge-featuredarticle" title="featured article badge" data-wb-badge="Q17437796"></span></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-newwiki" data-wb-siteid="newwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-newwiki" title="Newari">newwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-newwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="new"><a href="https://new.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%87%E0%A4%B6_%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B2" hreflang="new" title="राजेश हमाल">राजेश हमाल</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-nlwiki" data-wb-siteid="nlwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-nlwiki" title="Dutch">nlwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-nlwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="nl"><a href="https://nl.wikipedia.org/wiki/Rajesh_Hamal" hreflang="nl" title="Rajesh Hamal">Rajesh Hamal</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ruwiki" data-wb-siteid="ruwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ruwiki" title="Russian">ruwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ruwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ru"><a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%B0%D0%BB,_%D0%A0%D0%B0%D0%B4%D0%B6%D0%B5%D1%88" hreflang="ru" title="Хамал, Раджеш">Хамал, Раджеш</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-satwiki" data-wb-siteid="satwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-satwiki" title="Santali">satwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-satwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%A8%E1%B1%9F%E1%B1%A1%E1%B1%AE%E1%B1%A5_%E1%B1%A6%E1%B1%9A%E1%B1%A2%E1%B1%9F%E1%B1%9E" hreflang="sat" title="ᱨᱟᱡᱮᱥ ᱦᱚᱢᱟᱞ">ᱨᱟᱡᱮᱥ ᱦᱚᱢᱟᱞ</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-simplewiki" data-wb-siteid="simplewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-simplewiki" title="Simple English">simplewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-simplewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="en-simple"><a href="https://simple.wikipedia.org/wiki/Rajesh_Hamal" hreflang="en-simple" title="Rajesh Hamal">Rajesh Hamal</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikibooks">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikibooks">Wikibooks<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q5203004" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikinews">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikinews">Wikinews<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q5203004" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikiquote">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikiquote">Wikiquote<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q5203004" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikisource">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikisource">Wikisource<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q5203004" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikiversity">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikiversity">Wikiversity<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q5203004" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikivoyage">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikivoyage">Wikivoyage<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q5203004" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wiktionary">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wiktionary">Wiktionary<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q5203004" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="special">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="mw-collapsible-toggle-placeholder"></div>
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-special">Multilingual sites<span class="wikibase-sitelinkgroupview-counter">(1 entry)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q5203004" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-commonswiki" data-wb-siteid="commonswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-commonswiki" title="Commons">commonswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-commonswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="en"><a href="https://commons.wikimedia.org/wiki/Rajesh_Hamal" hreflang="en" title="Rajesh Hamal">Rajesh Hamal</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div></div></div></div>
+</div>
+<!-- Saved in parser cache with key wikidatawiki:pcache:4972976:|#|:idhash:termboxVersion=1!wb=3!wbMobile=0 and timestamp 20250522110036 and revision id 2261879738. Rendering was triggered because: page-view
+ -->
+<!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://www.wikidata.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://www.wikidata.org/w/index.php?title=Q5203004&amp;oldid=2261879738">https://www.wikidata.org/w/index.php?title=Q5203004&amp;oldid=2261879738</a>"</div></div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 17 October 2024, at 22:13.</li>
+	<li id="footer-info-copyright">All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the <a rel="nofollow" class="external text" href="//creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 License</a>; text in the other namespaces is available under the <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply. By using this site, you agree to the <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Special:MyLanguage/Project:Introduction">About Wikidata</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Special:MyLanguage/Project:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/www.wikidata.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//m.wikidata.org/w/index.php?title=Q5203004&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-data-access"><a href="/wiki/Special:MyLanguage/Wikidata:Data_access">Data access</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left vector-button-flush-right" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput"
+									
+									type="search" name="search" placeholder="Search Wikidata">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Search">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="wikibase-title ">
+<span class="wikibase-title-label">Rajesh Hamal</span>
+<span class="wikibase-title-id">(Q5203004)</span>
+</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Add topic</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-6c6f4848fb-x5f7h","wgBackendResponseTime":114});});</script>
+</body>
+</html>

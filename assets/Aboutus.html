@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Hotel Laku - Pokhara Retreat</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="stylesheet" href="app.css  ">
+  <style>
+    /* Base Styles */
+    :root {
+      --primary-color: #2c3e50;
+      --secondary-color: #3498db;
+      --accent-color: #e74c3c;
+      --light-bg: #f5f5f5;
+      --text-color: #333;
+      --text-light: #555;
+      --white: #ffffff;
+      --shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+      --transition: all 0.3s ease;
+    }
+
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      color: var(--text-color);
+      margin: 0;
+      padding: 0;
+    }
+
+    /* About Section Styles */
+    .about-section {
+      padding: 60px 20px;
+      background-color: var(--light-bg);
+      background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9));
+      background-size: cover;
+      background-position: center;
+    }
+
+    .about-container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 30px;
+      background-color: var(--white);
+      border-radius: 10px;
+      box-shadow: var(--shadow);
+    }
+
+    .section-title {
+      text-align: center;
+      color: var(--primary-color);
+      font-size: 2.5rem;
+      margin-bottom: 30px;
+      position: relative;
+    }
+
+    .section-title::after {
+      content: '';
+      position: absolute;
+      width: 80px;
+      height: 4px;
+      background: var(--secondary-color);
+      bottom: -15px;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+
+    .about-text {
+      font-size: 1.1rem;
+      color: var(--text-light);
+      line-height: 1.8;
+      margin-bottom: 20px;
+    }
+
+    .about-text strong {
+      color: var(--primary-color);
+      font-weight: 600;
+    }
+
+    /* Features Section */
+    .feature-box {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      margin: 40px 0;
+    }
+
+    .feature {
+      flex: 1;
+      min-width: 250px;
+      margin: 15px;
+      padding: 25px;
+      text-align: center;
+      background: var(--white);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      transition: var(--transition);
+    }
+
+    .feature:hover {
+      transform: translateY(-5px);
+    }
+
+    .feature-icon {
+      font-size: 2.5rem;
+      color: var(--secondary-color);
+      margin-bottom: 15px;
+    }
+
+    .feature h3 {
+      color: var(--primary-color);
+      margin-bottom: 10px;
+    }
+
+    /* Image Gallery */
+    .image-gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+      margin: 40px 0;
+    }
+
+    .gallery-img {
+      flex: 1;
+      min-width: 250px;
+      max-width: 300px;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      transition: var(--transition);
+    }
+
+    .gallery-img:hover {
+      transform: scale(1.03);
+    }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      .about-section {
+        padding: 40px 15px;
+      }
+      
+      .about-container {
+        padding: 20px;
+      }
+      
+      .section-title {
+        font-size: 2rem;
+      }
+      
+      .about-text {
+        font-size: 1rem;
+      }
+
+      .feature {
+        min-width: 100%;
+        margin: 10px 0;
+      }
+
+      .gallery-img {
+        min-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <section class="about-section">
+    <div class="about-container">
+      <h2 class="section-title">About Hotel Laku</h2>
+      <div class="about-content">
+        <p class="about-text">
+          Welcome to <strong>Hotel Laku</strong>, your serene retreat nestled in the heart of Pokhara. 
+          Established in 2025, our hotel offers a perfect blend of luxury, comfort, and Nepali hospitality.
+        </p>
+        
+        <div class="feature-box">
+          <div class="feature">
+            <i class="fas fa-mountain feature-icon"></i>
+            <h3>Breathtaking Views</h3>
+            <p>Enjoy panoramic views of the Annapurna range from our rooms and terrace</p>
+          </div>
+          <div class="feature">
+            <i class="fas fa-concierge-bell feature-icon"></i>
+            <h3>Premium Service</h3>
+            <p>Our dedicated staff provides warm Nepali hospitality</p>
+          </div>
+          <div class="feature">
+            <i class="fas fa-utensils feature-icon"></i>
+            <h3>Delicious Cuisine</h3>
+            <p>Experience both local and international culinary delights</p>
+          </div>
+        </div>
+        
+        <p class="about-text">
+          With breathtaking views of the Annapurna range, modern amenities, and a dedicated staff, 
+          we strive to provide an unforgettable experience for our guests. Whether you are here for adventure, 
+          relaxation, or business, Hotel Laku is your home away from home.
+        </p>
+        
+        <div class="image-gallery">
+          <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Hotel Lobby" class="gallery-img">
+          <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Hotel Room" class="gallery-img">
+          <img src="https://images.unsplash.com/photo-1584132967334-10e028bd69f7?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Mountain View" class="gallery-img">
+        </div>
+        
+        <p class="about-text">
+          Join us and experience warm service, cozy rooms, and delicious local and international cuisine — 
+          all designed to make your stay extraordinary. We look forward to welcoming you to Hotel Laku, 
+          where every guest becomes part of our family.
+        </p>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
